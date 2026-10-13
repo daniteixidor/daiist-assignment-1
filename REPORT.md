@@ -202,9 +202,9 @@ shows how quickly this changes if c/V changes.
 
 ## Generative AI use disclosure
 
-I used **Claude (Anthropic)** as instructed for this assignment. It helped me:
+AI helped me:
 
-- choose and frame the dataset;
+- frame the dataset after cho0sing it
 - write `pipeline.py`, `train.py` and `app.py`;
 - investigate the three-way disagreement (the identifiability and conditioning issues above);
 - draft this report.
