@@ -143,23 +143,3 @@ Coefficients above are a starting proposal sized to relative workload
 (feature engineering and the three-method comparison carry the most work),
 not settled policy. Expect them to be confirmed before the deadline.
 
-## Generative AI use
-
-Per the syllabus AI Policy: disclosed AI use is fine and must be stated in
-REPORT.md's disclosure section. Within that policy, here's how it applies
-to this assignment specifically:
-
-- **Fine to use AI for**: boilerplate and common operations, like loading
-  a dataset, saving a trained model, and especially plotting and
-  presenting results in the Gradio dashboard.
-- **Use your own judgement for**: the decisions that are the point of this
-  assignment, like which features to design, how to frame the business
-  problem, and the implications of your design choices. AI can write the
-  code for a decision, but the decision itself has to be yours.
-- **REPORT.md**: the ideas and findings in it must be your own. AI may
-  help with formatting, not with generating the analysis or conclusions.
-
-None of this changes what's expected of you: you have to be able to
-explain every decision in your submission as if you made it yourself,
-because you did. Using a tool to help write it doesn't transfer the
-understanding requirement to the tool.
